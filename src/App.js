@@ -9,7 +9,8 @@ function App() {
       <div className="App">
         <Hello name="Farhan"></Hello>
         <Hello  name="Tanvir"></Hello>
-        <Welcome></Welcome>
+        <Welcome name="Farhan"></Welcome>
+        <Welcome name="Tanvir"></Welcome>
       </div>
       
     </div>
