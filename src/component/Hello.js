@@ -9,7 +9,6 @@ function Hello(props){
             <button onClick={DoThis.bind(this, "Hello, I am from functional component pram...")}>Click me from functional componet</button>
             <h1>Hello, I am from functional component and my name is: {props.name}</h1>
         </div>
-        
     );
 }
 
