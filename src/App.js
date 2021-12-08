@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <div className="App">
         <SecWelcome></SecWelcome>
-        <Hello name="Farhan"></Hello>
+        {/* <Hello name="Farhan"></Hello>
         <Hello  name="Tanvir"></Hello>
         <Welcome name="Farhan"></Welcome>
-        <Welcome name="Tanvir"></Welcome>
+        <Welcome name="Tanvir"></Welcome> */}
       </div>
       
     </div>
